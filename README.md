@@ -1,1 +1,0 @@
-# ericschmid-uchicago.github.io
