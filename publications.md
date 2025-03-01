@@ -85,9 +85,15 @@ permalink: /publications
 
   ## Notes
 
-  **Compositional Game Theory**
+* E. Schmid (2024) <br>
+  **Notes on Varieties and Commutative Algebra**
+  <br> [Link] (/Schmid_notes_on_varieties_FINAL.pdf)
+
+* Compositional Game Theory**
   <br>
 
-    **Compositional Bayesian Inference**
+* Compositional Bayesian Inference**
   <br>
+
+  
   
