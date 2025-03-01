@@ -1,0 +1,75 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+body, #container {
+    background: none;
+    background-color: black;
+    text-shadow: none;
+    color: white;
+    font-size: 100%;
+    font-weight: 300;
+}
+
+h2 {
+    font-size: large;
+    color: white;
+}
+
+header h1, h1, h3, a, footer a {
+    font-family: sans-serif;
+    color: orange;
+    font-weight: 400;
+}
+
+footer {
+    margin-top: 0;
+    padding-top: 0;
+}
+
+footer a:hover {
+    color:#c5000c
+}
+
+h2 a {
+    display: block;
+    float: right;
+}
+
+hr {
+    background-color: orange;
+    height: 1px;
+    padding-bottom: 0;
+    margin-bottom: 21px;
+    margin-top: 21px;
+}
+
+sup {
+    vertical-align: super;
+    font-size: smaller;
+}
+
+ul, ol {
+    margin-left: 42px;
+}
+
+ul.social {
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 21px;
+    padding-bottom: 21px;
+}
+
+.social li {
+    list-style: none;
+    margin-left: 12px;
+    margin-right: 12px;
+    margin-bottom: 12px;
+    float: left;
+}
+
+.social img {
+    width: 42px;
+    height: 42px;
+}

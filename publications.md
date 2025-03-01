@@ -1,0 +1,89 @@
+---
+layout: default
+title: Publications
+permalink: /publications
+---
+
+# Publications
+
+---
+
+## Books
+
+* E. Schmid (2022) <br>
+  **Prolegomenon to a Treatise**
+  <br>
+  Bauer Verlag, Frankfurt, 220 pages
+
+* E. Schmid (2024) <br>
+  **Collected Writings: 2011-2024**
+  <br>
+  Edition Cox
+  [[Link](https://editionscox.com/SchmidCollectedWorks.html)]
+
+## Journal Articles
+
+* E. Schmid (2023) <br>
+  **Categorical Cybernetics: A Framework for Computational Dialectics**
+  [[PDF](https://philpapers.org/archive/SCHCCA-48.pdf)]
+
+* D. Schrag, K. Noonan, W. Snider, T. Hess, J. Yang, C. Horner, D. Sommer, E. Schmid (2007) <br>
+  **The value of innovation: the economics of targeted drugs for cancer**
+  [[DOI](https://link.springer.com/article/10.1007/s11523-007-0043-8)] <br>
+  Targeted Oncology, April 2007 (Northwestern University Feinberg School of Medicine)
+
+* C. C. Tigue, K. A. Fitzner, M. Alkhatib, E. Schmid, C. L. Bennett <br>
+  **The Value of Innovation: The Economics of Targeted Drugs for Cancer** <br>
+  Targeted Oncology
+
+## Essays and Short Publications
+
+* E. Schmid (2023) <br>
+  **Some Brief Notes on Reza Negarestani's Intelligence & Spirit**
+  <br>
+  Triple Ampersand Journal
+
+* E. Schmid (2023) <br>
+  **HoTT: pseudoproblems, extensional propositions and intensional constructions**
+  <br>
+  Graham Vunderink Gallery
+
+* E. Schmid (2023) <br>
+  **A Very Short Introduction to Topos Theory (adapted from Prof. Pettigrew's notes)**
+  <br>
+  [[PhilArchive](https://philarchive.org/archive/SCHAVS-8)]
+
+* E. Schmid, C. Tomaka, G. Gamboa (2023) <br>
+  **Epistemological Engineering**
+  <br>
+  Edition Eric Schmid
+
+* E. Schmid (2023) <br>
+  **Prospectus to a Homotopic Metatheory of Language**
+  <br>
+  Edition Eric Schmid
+
+* E. Schmid, C. Tomaka, L. Horvath (2022) <br>
+  **Dimes is of the Essence: Gardeners of the creative**
+  <br>
+  Triple Ampersand Journal
+
+* E. Schmid (2021) <br>
+  **Minor Rationalism**
+  <br>
+  Triple Ampersand Journal
+
+* E. Schmid (2021) <br>
+  **On Zoe Barcza**
+  <br>
+  Press release for exhibition at Bianca D'Alessandro
+
+* E. Schmid (2016) <br>
+  **Ontological Warfare: Subject as Universal Singularity vs. Object as Statist Particularity**
+  <br>
+  Published in Yngve Holen's artist monograph "Trypophobia", Distanz
+
+* E. Schmid (2011) <br>
+  **On Messianism: Theodor Adorno vs. Walter Benjamin**
+  <br>
+  XYM, "Home vs. Away" publication
