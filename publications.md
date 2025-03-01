@@ -13,7 +13,7 @@ permalink: /publications
 * E. Schmid (2022) <br>
   **Prolegomenon to a Treatise**
   <br>
-  Bauer Verlag, Frankfurt, 220 pages
+  Bauer Verlag, Frankfurt, 220 pages  [[Link](https://after8books.com/reihe-no.-3-prolegomenon.html)]
 
 * E. Schmid (2024) <br>
   **Collected Writings: 2011-2024**
@@ -23,14 +23,9 @@ permalink: /publications
 
 ## Journal Articles
 
-* E. Schmid (2023) <br>
+* E. Schmid (2025) <br>
   **Categorical Cybernetics: A Framework for Computational Dialectics**
-  [[PDF](https://philpapers.org/archive/SCHCCA-48.pdf)]
-
-* D. Schrag, K. Noonan, W. Snider, T. Hess, J. Yang, C. Horner, D. Sommer, E. Schmid (2007) <br>
-  **The value of innovation: the economics of targeted drugs for cancer**
-  [[DOI](https://link.springer.com/article/10.1007/s11523-007-0043-8)] <br>
-  Targeted Oncology, April 2007 (Northwestern University Feinberg School of Medicine)
+  [[PDF](https://philpapers.org/archive/SCHCCA-48.pdf)] Forthcoming in Triple Ampersand Journal
 
 * C. C. Tigue, K. A. Fitzner, M. Alkhatib, E. Schmid, C. L. Bennett <br>
   **The Value of Innovation: The Economics of Targeted Drugs for Cancer** <br>
@@ -87,3 +82,12 @@ permalink: /publications
   **On Messianism: Theodor Adorno vs. Walter Benjamin**
   <br>
   XYM, "Home vs. Away" publication
+
+  ## Notes
+
+  **Compositional Game Theory**
+  <br>
+
+    **Compositional Bayesian Inference**
+  <br>
+  
