@@ -83,17 +83,17 @@ permalink: /publications
   <br>
   XYM, "Home vs. Away" publication
 
-  ## Notes
+## Notes
 
 * E. Schmid (2024) <br>
   **Notes on Varieties and Commutative Algebra**
   <br> [[Link](notes/Schmid_notes_on_varieties_FINAL.pdf)]
 
-* Compositional Game Theory**
-  <br>
+* Compositional Game Theory
+  <br> forthcoming
 
-* Compositional Bayesian Inference**
-  <br>
+* Compositional Bayesian Inference
+  <br> forthcoming
 
   
   
