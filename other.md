@@ -159,7 +159,7 @@ Click to play
 
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/APGygH78Xcg/0.jpg)](http://www.youtube.com/watch?v=APGygH78Xcg)
 
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/IKShocwZpK0/0.jpg)](http://www.youtube.com/watch?v=IKShocwZpK0)
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/cXtSymSFXRI/0.jpg)](http://www.youtube.com/watch?v=cXtSymSFXRI)
 
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/nQpxXaOCvHo/0.jpg)](http://www.youtube.com/watch?v=nQpxXaOCvHo)
 
