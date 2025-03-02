@@ -94,9 +94,13 @@ permalink: /other
 
 * [Link](https://forceincmilleplateaux.bandcamp.com/album/language-games-by-eric-schmid-3)
 
-  
+## "Burhuss Frederic Skinner", released by Mille Plateaux, by Eric Schmid & Alyssa Van Denburg, 20:15, digital
 
-## "St. Francis", released by Recital, score by Eric Schmid, produced by Sean McCann, voice by Liv Landry
+* This album consists of granular synthesis using Van Denburg’s voice. She performs a very short libretto about BF Skinner, which I have algorithmically synthesized into sound particles using the SuperCollider software, modulating her voice over and over again.
+
+* [Link](https://forceincmilleplateaux.bandcamp.com/album/burhuss-frederic-skinner)
+
+## "St. Francis", released by Recital, score by Eric Schmid, produced by Sean McCann, voice by Liv Landry, 43 minutes 11 seconds, vinyl LP
 
 * LP edition of the sold out CD/Pamphlet from 2016. The score by Schmid, reading by Landry, and edited/produced by McCann. Includes a big poster of The St. Francis List.
 
