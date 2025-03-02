@@ -72,7 +72,7 @@ permalink: /other
 
 ---
 
-![Tape](assets/ericrb_main.jpg)
+![Tape](/assets/ericrb_main.jpg)
 
 * Technology & Mythology (What Is Structure's Ontology), released by Regional Bears, [purchase or listen here](https://www.cafeoto.co.uk/shop/eric-schmid-technology-mythology-what-structures-o/)
 
