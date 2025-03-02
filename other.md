@@ -72,6 +72,10 @@ permalink: /other
 
 ---
 
+[Tape](assets/ericrb_main.jpg)
+
+* Technology & Mythology (What Is Structure's Ontology), released by Regional Bears, [purchase or listen here](https://www.cafeoto.co.uk/shop/eric-schmid-technology-mythology-what-structures-o/)
+
 * [Mix on NTS Radio](https://www.nts.live/shows/guests/episodes/eric-schmid-malvern-brume-30th-january-2023)
 
 * Low slung electro, 90s jungle, and other technoid oddities with Schmid and Malvern Brume in the mix.
