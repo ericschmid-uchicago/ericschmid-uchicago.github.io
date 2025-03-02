@@ -145,7 +145,13 @@ permalink: /misc
 * [Event link](https://www.cafeoto.co.uk/events/dedicated-to-fernando-zalamea/)
 
 * [Live at Cafe Oto LDN (Computer Music Edit) libretto from Prolegomenon to a Treatise - dedicated to Hecker and Negarestani](https://infanttree.bandcamp.com/album/live-at-cafe-oto-ldn-computer-music-edit-libretto-from-prolegomenon-to-a-treatise-dedicated-to-hecker-and-negarestani)
+
 * [Recording (original)](https://www.ninaprotocol.com/releases/eric-schmid-live-at-cafe-oto-original)
+
+* Chorus: A Sound Poetry Festival
+* Performance by Eric Schmid & Mike Pollard
+* at Artist's Space, NYC
+* [ArtForum write-up](https://www.artforum.com/columns/a-festival-at-the-borderlands-of-music-and-language-252361/)
 
 
 
