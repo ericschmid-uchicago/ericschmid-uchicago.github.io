@@ -150,7 +150,7 @@ permalink: /misc
 
 * Chorus: A Sound Poetry Festival
 * Performance by Eric Schmid & Mike Pollard
-* at Artist's Space, NYC
+* at Artists Space, NYC
 * [ArtForum write-up](https://www.artforum.com/columns/a-festival-at-the-borderlands-of-music-and-language-252361/)
 
 
