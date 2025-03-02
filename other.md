@@ -33,3 +33,28 @@ permalink: /other
 * Opening: Thursday,  29 September 6 pm
 * 29 September -  30 October 2022
 * Centralbanken, Brugata 12, NO-0186, Oslo
+
+## GROUP SHOW
+
+* Anna Zacharoff & George Rippon, Georgie Nettell, Mohammad Salemy, Morag Keil & Bedros Yeretzian, Hana Earles & Anabel Robinson, Michael Pollard, Ben Schumacher & Peter Friel, Moritz Smid, Israel Lund, Cathy Osterberg, Jacques Rogers, Zoe Barcza, Eirik Saether, Arild Tveito, Tyler Dobson, Walter Smith, Matthew Pang, and Gabriel Humberstone
+
+* Group show curated by Eric Schmid
+
+* December 18, 2022 - February 2, 2023
+
+* [Press release](https://www.grahamvunderink.com/exhibitions/group-show-curated-by-eric-schmid)
+
+## ARTIST'S ARTIST
+
+* Tim Pierson, Lauren Burns-Coady, Connor Camburn, Emma Sims, Bauer Verlag, Alyssa van Denburg, Max Guy, Connor Tamaka, Matt Voor, Peter Wolfgang, Keith Farquhar, P.E.O.P.L.E., with a sound installation by Sean McCann
+
+* curated by Eric Schmid
+
+* [Press Release](https://freight.cargo.site/m/O1964292677810958712958103756001/Artist-s-Artist---Eric-Press-release.pdf)
+
+## MAKING IT EXPLICIT
+
+* Matthew Pang, Giangiacomo Rosetti, Cheyney Thompson, Tim Pierson, Georgie Nettell, Lauren Burns-Coady, Nicole-Antonia Spagnola
+
+* [Press Release](/cybernetics.pdf)
+
