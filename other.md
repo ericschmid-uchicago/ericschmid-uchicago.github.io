@@ -115,9 +115,11 @@ permalink: /other
 * But prayer is also like the magic language we were talking about — faith that words do something more than just mean — they have the capacity to effect change in the world, and not just in the like, “words change ppl’s minds” kind of way, but in that the words themselves actually have agency. Form: sing-along."
 
 * [Link](https://boomkat.com/products/st-francis-9dc89ae8-7fd5-4d0a-855f-bb42fcf5e33d)
+---
 
-## Performances
+# Performances
 
+---
 * Eric Schmid 
 * Malvern Brume
 * Lauren Burns-Coady / Will Fraser
@@ -130,3 +132,8 @@ permalink: /other
 
 * [Live at Cafe Oto LDN (Computer Music Edit) libretto from Prolegomenon to a Treatise - dedicated to Hecker and Negarestani](https://infanttree.bandcamp.com/album/live-at-cafe-oto-ldn-computer-music-edit-libretto-from-prolegomenon-to-a-treatise-dedicated-to-hecker-and-negarestani)
 * [Recording (original)](https://www.ninaprotocol.com/releases/eric-schmid-live-at-cafe-oto-original)
+
+
+
+* Performance at Bortolami Gallery, New York, New York
+* [Documentation](https://www.contemporaryartlibrary.org/project/ben-schumacher-at-bortolami-new-york-8860)
