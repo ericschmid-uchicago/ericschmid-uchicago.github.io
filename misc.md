@@ -66,6 +66,15 @@ permalink: /misc
 
 * Graham Vunderink Gallery, 501 Route 20, New Lebanon, NY 12125
 
+## GROUP SHOW
+
+
+![Flyer](/assets/images/image-asset.jpeg)
+
+* M. LeBlanc is proud to present a group exhibition featuring works from Lauren Burns-Coady, Andy Hope 1930, Sergej Jensen, Arnold J. Kemp, Bjarne Melgaard, Matthew Pang, Nicole-Antonia Spagnola, and Cameron Spratley. The exhibition was curated collaboratively with Chicago cybernetician and curator Eric Schmid.
+
+* The exhibition is on view through May 24th, 2024. 
+
 ---
 
 # Music
