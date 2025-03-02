@@ -4,7 +4,7 @@ title: Other
 permalink: /other
 ---
 
-# Art Curation
+# Art (Curation)
 
 ---
 
@@ -42,7 +42,9 @@ permalink: /other
 
 * December 18, 2022 - February 2, 2023
 
-* [Press release](https://www.grahamvunderink.com/exhibitions/group-show-curated-by-eric-schmid)
+* [Press Release](https://www.grahamvunderink.com/exhibitions/group-show-curated-by-eric-schmid)
+
+* Graham Vunderink Gallery, 501 Route 20, New Lebanon, NY 12125
 
 ## ARTIST'S ARTIST
 
@@ -52,9 +54,12 @@ permalink: /other
 
 * [Press Release](https://freight.cargo.site/m/O1964292677810958712958103756001/Artist-s-Artist---Eric-Press-release.pdf)
 
+* Rue Americaine 13, 1060 Saint Gilles Brussels
+
 ## MAKING IT EXPLICIT
 
 * Matthew Pang, Giangiacomo Rosetti, Cheyney Thompson, Tim Pierson, Georgie Nettell, Lauren Burns-Coady, Nicole-Antonia Spagnola
 
 * [Press Release](/cybernetics.pdf)
 
+* Graham Vunderink Gallery, 501 Route 20, New Lebanon, NY 12125
