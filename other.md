@@ -115,6 +115,7 @@ permalink: /other
 * But prayer is also like the magic language we were talking about — faith that words do something more than just mean — they have the capacity to effect change in the world, and not just in the like, “words change ppl’s minds” kind of way, but in that the words themselves actually have agency. Form: sing-along."
 
 * [Link](https://boomkat.com/products/st-francis-9dc89ae8-7fd5-4d0a-855f-bb42fcf5e33d)
+  
 ---
 
 # Performances
