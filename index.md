@@ -24,3 +24,4 @@ The ultimate goal is to enable efficient computation of Bayesian Nash Equilibria
 * [Publications](publications)
 * [Talks](talks)
 * [News](news)
+* [Other](other)
