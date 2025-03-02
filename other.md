@@ -4,7 +4,7 @@ title: Other
 permalink: /other
 ---
 
-# Other
+# Art Curation
 
 ---
 
