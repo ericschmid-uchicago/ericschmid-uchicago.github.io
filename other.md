@@ -58,8 +58,20 @@ permalink: /other
 
 ## MAKING IT EXPLICIT
 
+
+
 * Matthew Pang, Giangiacomo Rosetti, Cheyney Thompson, Tim Pierson, Georgie Nettell, Lauren Burns-Coady, Nicole-Antonia Spagnola
 
 * [Press Release](/cybernetics.pdf)
 
 * Graham Vunderink Gallery, 501 Route 20, New Lebanon, NY 12125
+
+---
+
+# Music
+
+---
+
+* [Mix on NTS Radio](https://www.nts.live/shows/guests/episodes/eric-schmid-malvern-brume-30th-january-2023)
+
+* Low slung electro, 90s jungle, and other technoid oddities with Schmid and Malvern Brume in the mix.
