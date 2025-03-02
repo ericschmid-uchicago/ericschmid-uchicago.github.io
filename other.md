@@ -142,3 +142,26 @@ permalink: /other
 
 * Performance at Bortolami Gallery, New York, New York
 * [Documentation](https://www.contemporaryartlibrary.org/project/ben-schumacher-at-bortolami-new-york-8860)
+
+---
+
+# Favorite House Music
+
+---
+
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/Z3jc0AODMIE/0.jpg)](http://www.youtube.com/watch?v=Z3jc0AODMIE)
+
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/4jR3R3alZCU/0.jpg)](http://www.youtube.com/watch?v=4jR3R3alZCU)
+
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/Z3jc0AODMIE/0.jpg)](http://www.youtube.com/watch?v=Z3jc0AODMIE)
+
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/Yth3AX7ydxqU/0.jpg)](http://www.youtube.com/watch?v=th3AX7ydxqU)
+
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/IKShocwZpK0/0.jpg)](http://www.youtube.com/watch?v=IKShocwZpK0)
+
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/nQpxXaOCvHo/0.jpg)](http://www.youtube.com/watch?v=nQpxXaOCvHo)
+
+
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/Kzl_osw_szg/0.jpg)](http://www.youtube.com/watch?v=Kzl_osw_szg)
+
+
