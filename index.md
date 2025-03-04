@@ -15,10 +15,13 @@ A multidisciplinary scholar working at the intersection of mathematics, economic
 ## Forthcoming doctoral work
 
 Intended Reading list:
-Awodey's notes on [Categorical Logic](https://awodey.github.io/catlog/notes/catlogdraft.pdf)
-Mac Lane and Moerjdijk's _Sheaves in Geometry and Logic_
-P.T. Johnstone's _Topos Theory_
-Silvio Ghilardi and Marek Zawadowski's _Sheaves, games, and model completions. A categorical approach to nonclassical propositional logics_
+* Awodey's notes on [Categorical Logic](https://awodey.github.io/catlog/notes/catlogdraft.pdf)
+* Mac Lane and Moerjdijk's _Sheaves in Geometry and Logic_
+* P.T. Johnstone's _Topos Theory_
+* Silvio Ghilardi and Marek Zawadowski's _Sheaves, games, and model completions. A categorical approach to nonclassical propositional logics_
+* David Jaz Mayer's [Categorical Systems Theory](https://www.davidjaz.com/Papers/DynamicalBook.pdf)
+* Patrick Schultz, David I. Spivak and Christina Vasilakopoulou's [Dynamical Systems and Sheaves](https://arxiv.org/abs/1609.08086)
+* Brandon T. Shapiro and David I. Spivak's [Dynamic Operads, Dynamic Categories: From Deep Learning to Prediction Markets](https://arxiv.org/abs/2205.03906)
 
 ## Contents
 
