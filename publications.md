@@ -86,7 +86,7 @@ permalink: /publications
 ## Notes
 
 * E. Schmid (2025) <br>
-  **A Gentle Introduction: Categorical Logic and Type Theory**
+  **A Gentle Introduction to Categorical Logic and Type Theory**
   <br> [[Link](notes/cl_and_tt_v2.pdf)]
 
 * E. Schmid (2024) <br>
