@@ -87,7 +87,7 @@ permalink: /publications
 
 * E. Schmid (2025) <br>
   **A Gentle Introduction: Categorical Logic and Type Theory**
-  <br> [[Link](notes/cl_and_tt_3_6_25.pdf)]
+  <br> [[Link](notes/cl_and_tt_v2.pdf)]
 
 * E. Schmid (2024) <br>
   **Notes on Varieties and Commutative Algebra**
