@@ -26,7 +26,7 @@ Intended Reading list:
 
 ## Contents
 
-* [Curriculum Vitæ](cv/EricMSchmidResume_3-11-2025-new.pdf)
+* [Curriculum Vitæ](/cv/EricMSchmidCV_3-11-2025_final.pdf)
 * [Publications](publications)
 * [Talks](talks)
 * [News](news)
