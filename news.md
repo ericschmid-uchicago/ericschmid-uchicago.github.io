@@ -13,7 +13,7 @@ permalink: /news
 
 I'm honored to be curating an art exhibition in Oslo next year (Summer 2026).
 
-![Flyer](/assets/images/centralbanken.jpeg)
+![Flyer](/assets/images/centralbanken.jpg)
 
 ## February 2025
 
