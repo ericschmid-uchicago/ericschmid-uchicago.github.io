@@ -86,13 +86,17 @@ permalink: /publications
 ## Notes
 
 * E. Schmid (2025) <br>
+  **Notes on Interaction Nets and Linear Logic: Theory and Applications**
+  <br> [[Link](notes/interaction_nets_classical_linear_logic.pdf)]
+
+* E. Schmid (2025) <br>
   **A Gentle Introduction to Categorical Logic and Type Theory**
   <br> [[Link](notes/cl_and_tt_v2.pdf)]
 
 * E. Schmid (2024) <br>
   **Notes on Varieties and Commutative Algebra**
   <br> [[Link](notes/Schmid_notes_on_varieties_FINAL.pdf)]
-
+  
 * Compositional Game Theory
   <br> forthcoming
 
