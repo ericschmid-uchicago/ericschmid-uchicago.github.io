@@ -21,11 +21,12 @@ permalink: /publications
   Edition Cox
   [[Link](https://editionscox.com/SchmidCollectedWorks.html)]
 
-## Journal Articles
-
 * E. Schmid (2025) <br>
-  **Categorical Cybernetics: A Framework for Computational Dialectics**
-  [[PDF](https://philpapers.org/archive/SCHCCA-48.pdf)] Forthcoming in Triple Ampersand Journal
+  **Dub Langlands**
+  <br>
+  Graham Vunderink Gallery [[Link](https://grahamvunderink.com)]
+
+## Journal Articles
 
 * C. C. Tigue, K. A. Fitzner, M. Alkhatib, E. Schmid, C. L. Bennett <br>
   **The Value of Innovation: The Economics of Targeted Drugs for Cancer** <br>
@@ -86,7 +87,7 @@ permalink: /publications
 ## Notes
 * E. Schmid (2025) <br>
   **Introduction to Sheaf Theory and Sheaf Cohomology**
-  <br> [[Link](/notes/sheaf_final-10.pdf)
+  <br> [[Link](/notes/sheaf_final-10.pdf)]
 
 * E. Schmid (2025) <br>
   **Notes on Interaction Nets and Linear Logic: Theory and Applications**
