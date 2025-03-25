@@ -8,7 +8,7 @@ description: personal website
 
 Eric Schmid is a mathematical sciences PhD researcher at GCAS College working on "sheaves for decentralized control" with co-advisors [Prof. Fernando Tohmé](https://scholar.google.com/citations?user=butwPD4AAAAJ&hl=en), [Prof. Neil Ghani (Strathclyde)](https://www.strath.ac.uk/staff/ghanineilprof/) and [Dr. Toby St Clere Smithe (Topos Institute)](https://scholar.google.co.uk/citations?user=wlJckLgAAAAJ&hl=en).
 
-Committee members include: [Prof. Mike Shulman](https://www.sandiego.edu/directory/biography.php?profile_id=682), [Prof. Colin McLarty (Case Western)](https://philosophy.case.edu/faculty/colin-mclarty/) and [Prof. Rocco Gangle (Endicott)](https://scholar.google.com/citations?user=RnrKWB0AAAAJ&hl=en).
+Committee members include: [Prof. Mike Shulman (University of San Diego)](https://www.sandiego.edu/directory/biography.php?profile_id=682), [Prof. Colin McLarty (Case Western)](https://philosophy.case.edu/faculty/colin-mclarty/) and [Prof. Rocco Gangle (Endicott)](https://scholar.google.com/citations?user=RnrKWB0AAAAJ&hl=en).
 
 Additional assistance from [Prof. William Mansky (UIC)](https://mansky.lab.uic.edu/)
 
