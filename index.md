@@ -8,7 +8,7 @@ description: personal website
 
 Eric Schmid is a mathematical sciences PhD researcher at GCAS College working on "sheaves for decentralized control" with co-advisors [Prof. Fernando Tohmé](https://scholar.google.com/citations?user=butwPD4AAAAJ&hl=en), [Prof. Neil Ghani (Strathclyde)](https://www.strath.ac.uk/staff/ghanineilprof/) and [Dr. Toby St Clere Smithe (Topos Institute)](https://scholar.google.co.uk/citations?user=wlJckLgAAAAJ&hl=en).
 
-Committee members include: [Prof. Colin McLarty (Case Western)](https://philosophy.case.edu/faculty/colin-mclarty/) and [Prof. Rocco Gangle (Endicott)](https://scholar.google.com/citations?user=RnrKWB0AAAAJ&hl=en).
+Committee members include: [Prof. Mike Shulman](https://www.sandiego.edu/directory/biography.php?profile_id=682), [Prof. Colin McLarty (Case Western)](https://philosophy.case.edu/faculty/colin-mclarty/) and [Prof. Rocco Gangle (Endicott)](https://scholar.google.com/citations?user=RnrKWB0AAAAJ&hl=en).
 
 Additional assistance from [Prof. William Mansky (UIC)](https://mansky.lab.uic.edu/)
 
@@ -16,15 +16,7 @@ A multidisciplinary scholar working at the intersection of mathematics, economic
 
 ## Forthcoming doctoral work
 
-Intended Reading list:
-* Awodey's notes on [Categorical Logic](https://awodey.github.io/catlog/notes/catlogdraft.pdf)
-* Mac Lane and Moerdijk's _Sheaves in Geometry and Logic_
-* P.T. Johnstone's _Topos Theory_
-* Rosiak's _Sheaf Theory Through Examples_
-* Silvio Ghilardi and Marek Zawadowski's _Sheaves, games, and model completions. A categorical approach to nonclassical propositional logics_
-* David Jaz Myers' [Categorical Systems Theory](https://www.davidjaz.com/Papers/DynamicalBook.pdf)
-* Patrick Schultz, David I. Spivak and Christina Vasilakopoulou's [Dynamical Systems and Sheaves](https://arxiv.org/abs/1609.08086)
-* Brandon T. Shapiro and David I. Spivak's [Dynamic Operads, Dynamic Categories: From Deep Learning to Prediction Markets](https://arxiv.org/abs/2205.03906)
+[My notes on sheaf theory and cohomology](/notes/sheaf_final-10.pdf)
 
 ## Contents
 
