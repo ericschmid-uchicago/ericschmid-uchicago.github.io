@@ -84,6 +84,9 @@ permalink: /publications
   XYM, "Home vs. Away" publication
 
 ## Notes
+* E. Schmid (2025) <br>
+  **Introduction to Sheaf Theory and Sheaf Cohomology**
+  <br> [[Link](/notes/sheaf_final-10.pdf)
 
 * E. Schmid (2025) <br>
   **Notes on Interaction Nets and Linear Logic: Theory and Applications**
