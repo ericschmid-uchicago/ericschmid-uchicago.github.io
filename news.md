@@ -11,7 +11,9 @@ permalink: /news
 
 ## March 2025
 
-I'm honored to be curating an art exhibition in Oslo next year (Summer 2026).
+* I'm thrilled that both Prof. Colin McLarty (Case Western) and Prof. Mike Shulman (University of San Diego) have agreed to be on my committee.
+
+* I'm honored to be curating an art exhibition in Oslo next year (Summer 2026).
 
 ![Flyer](/assets/images/centralbanken.jpg)
 
