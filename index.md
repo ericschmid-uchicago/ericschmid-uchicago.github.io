@@ -20,7 +20,7 @@ A multidisciplinary scholar working at the intersection of mathematics, economic
 
 ## Contents
 
-* [Curriculum Vitæ](/cv/EricMSchmidCV_3-13-2025.pdf)
+* [Curriculum Vitæ](/cv/EricMSchmidCV-3-30-2025.pdf)
 * [Publications](publications)
 * [Talks](talks)
 * [News](news)
