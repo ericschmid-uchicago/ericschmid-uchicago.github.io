@@ -14,7 +14,7 @@ A multidisciplinary scholar working at the intersection of mathematics, economic
 
 ## Forthcoming doctoral work
 
-[My notes on sheaf theory and cohomology](/notes/sheaf_final-10.pdf)
+[My notes on sheaf theory and cohomology (UPDATED)](/notes/sheaf_final-14.pdf)
 
 ## Contents
 
