@@ -14,7 +14,7 @@ A multidisciplinary scholar working at the intersection of mathematics, economic
 
 ## Forthcoming doctoral work
 
-[My notes on sheaf theory and cohomology (UPDATED April 9, 2025)](/notes/sheaf_final-15.pdf)
+[My PhD prospectus](https://people.cs.uchicago.edu/~ericschmid/schmid-applied-sheaf-theory.pdf)
 
 ## Contents
 
