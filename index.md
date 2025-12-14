@@ -14,7 +14,6 @@ Eric Schmid earned an MS in Applied Mathematics from DePaul University (March 20
 
 ## Contents
 
-* [Curriculum Vitæ](/cv/EricMSchmidCV_4-7-2025.pdf)
 * [Publications](publications)
 * [Talks](talks)
 * [News](news)
