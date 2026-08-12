@@ -6,7 +6,7 @@ description: personal website
 
 ## Hello, world!
 
-Eric Schmid is a Doktorand (Doctoral student) in the Mathematisch-Naturwissenschaftliche Fakultät (Faculty of Science), Fachbereich Informatik (Department of Computer Science) at Eberhard Karls Universität Tübingen (University of Tübingen). His intended research is on Induction Recursion in Martin-Löf dependent type theory. His co-supervisors are Prof. Dr. Reinhard Kahle (primary) and Dr. Anton Setzer (secondary). Committee members include: Prof. Steve Awodey (CMU).
+**Eric Schmid** is a **Doktorand (Doctoral student)** in the Mathematisch-Naturwissenschaftliche Fakultät (Faculty of Science), Fachbereich Informatik (Department of Computer Science) at **Eberhard Karls Universität Tübingen (University of Tübingen)**. His intended research is on **Induction Recursion in Martin-Löf dependent type theory.** His co-supervisors are **Prof. Dr. Reinhard Kahle (primary)** and **Dr. Anton Setzer (secondary)**. Committee members include: **Prof. Steve Awodey (CMU)**.
 
 He earned an MS in Applied Mathematics from DePaul University (March 2025). (He briefly attended the University of Chicago's MS in Computer Science program before transferring to DePaul University to finish an MS in Applied Mathematics in 2025.) He holds a BA from New York University, where he studied Continental Philosophy and Visual Art with a Minor in Mathematics and has completed formal coursework at the University of Chicago in the Economics Department (Introduction to Microeconomics) and Computer Science Department (Introduction to Computer Programming with Python). In 2007, he co-authored a paper on the economics of targeted drugs in _Targeted Oncology_ as part of an internship at Northwestern University Feinberg School of Medicine. He has co-organized two conferences at the Emily Harvey Foundation on the philosophy of science and logic. (In 2024, he published a conversation between logician Prof. Colin McLarty and philosopher of math Dr. Andrei Rodin on Schmid's publishing imprint. In 2022, he published a book of his own writing on the philosophy of math Prolegomenon to a Treatise with Bauer Verlag.)
 
@@ -16,7 +16,6 @@ He earned an MS in Applied Mathematics from DePaul University (March 2025). (He 
 
 ## Contents
 
-* [Publications](publications)
 * [Talks](talks)
 * [News](news)
 * [Misc](misc)
