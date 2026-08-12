@@ -16,6 +16,8 @@ He earned an MS in Applied Mathematics from DePaul University (March 2025). (He 
 
 ## Contents
 
+
+* [Para-academic experimental philosophy work](experimental)
 * [Talks](talks)
 * [News](news)
 * [Misc](misc)
