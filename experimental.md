@@ -14,13 +14,13 @@ permalink: /experimental
 * E. Schmid (2026) <br>
   **Critique of Linguistic Reason: From the Analytic Tradition to a Homotopic Metatheory of Language**
   <br>
-  M. LeBlanc (Chicago) [[PDF]((/experimental/Schmid_magnum_opus-3.pdf)]
+  M. LeBlanc (Chicago) [[PDF](/experimental/Schmid_magnum_opus-3.pdf)]
 
 
 * E. Schmid (2025) <br>
   **Transcendental Mathematics**
   <br>
-  Penultimate Press (Berlin) & Centralbanken (Oslo)  [[PDF]((/experimental/alles.pdf)]
+  Penultimate Press (Berlin) & Centralbanken (Oslo)  [[PDF](/experimental/alles.pdf)]
 
 
 * E. Schmid et al (2022) <br>
