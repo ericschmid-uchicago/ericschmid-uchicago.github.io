@@ -21,3 +21,12 @@ He earned an MS in Applied Mathematics from DePaul University (March 2025). (He 
 * [Talks](talks)
 * [News](news)
 * [Misc](misc)
+
+
+## Hobbies
+
+Experimental music & sound (specifically, kunstmusik), contemporary art, (both speculative & analytic) philosophy, and sometimes club music (Chicago house & Detroit techno)
+
+Some of my favorite books:
+
+![favbooks](/experimental/books.jpg)
